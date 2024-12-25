@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//vinayrv29upadhyay.github.io/beer-app/static/css/main.92d72c1c.css",
+    "main.js": "/https//vinayrv29upadhyay.github.io/beer-app/static/js/main.60c4a00c.js",
+    "index.html": "/https//vinayrv29upadhyay.github.io/beer-app/index.html",
+    "main.92d72c1c.css.map": "/https//vinayrv29upadhyay.github.io/beer-app/static/css/main.92d72c1c.css.map",
+    "main.60c4a00c.js.map": "/https//vinayrv29upadhyay.github.io/beer-app/static/js/main.60c4a00c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92d72c1c.css",
+    "static/js/main.60c4a00c.js"
+  ]
+}
